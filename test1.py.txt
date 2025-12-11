@@ -1,1 +1,3 @@
 print('hello git club')
+  def display(message):
+    print(message)
